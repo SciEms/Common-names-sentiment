@@ -21,6 +21,11 @@ The data used for the paper sourced from the IUCN Red List (2017) has been updat
 - `figs/`: figures produced by the R code using original IUCN (2017) dataset
 - `LICENSE`: license for the repository
 
-## Citation
+## Citation information
 
-TBC
+Cite the repository:
+<a href="https://zenodo.org/badge/latestdoi/255236230"><img src="https://zenodo.org/badge/255236230.svg" alt="DOI"></a>
+
+Cite the paper:
+Gregg, E. A., Bekessy, S. A., Martin, J. K., Garrard, G. E. "Many IUCN red list species have names that evoke negative emotions." *Human Dimensions of Wildlife* (Accepted, 2020) doi: [10.1080/10871209.2020.1753132]
+(http://dx.doi.org/10.1080/10871209.2020.1753132)
