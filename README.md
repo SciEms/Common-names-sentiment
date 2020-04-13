@@ -1,7 +1,7 @@
 # Common names sentiment
 Sentiment analysis of IUCN Red List animal species English common names
 
-This repository contains all the code used in the accepted manuscript:
+This repository contains all the R code used in the accepted manuscript:
 
 Gregg, E. A., Bekessy, S. A., Martin, J. K., Garrard, G. E. "Many IUCN red list species have names that evoke negative emotions." *Human Dimensions of Wildlife* (Accepted, 2020) doi: [10.1080/10871209.2020.1753132]
 (http://dx.doi.org/10.1080/10871209.2020.1753132)
