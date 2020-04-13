@@ -10,16 +10,16 @@ Gregg, E. A., Bekessy, S. A., Martin, J. K., Garrard, G. E. "Many IUCN red list 
 
 ## Running the code
 
-All analyses were run in 'R' v3.5.1. All code used to produce the results is included in this repository in the 'analysis.R' script, which sources some additional code and functions from R scipts in the 'R/' file.
+All analyses were run in `R` v3.5.1. All code used to produce the results is included in this repository in the `analysis.R` script, which sources some additional code and functions from R scipts in the `R/` file.
 
 The data used for the paper sourced from the IUCN Red List (2017) has been updated since analysis and is no longer available in the original format. The equivalent current dataset can be sourced directly from the IUCN Red List (https://www.iucnredlist.org/) according to its terms of use.
 
 ## Outline of repository items:
 
-- 'analysis.R': R script used for data analysis
-- 'R/': directory containing additional code and functions used in analysis (i.e. sourced within 'analysis.R' script)
-- 'figs/': figures produced by the R code using original IUCN (2017) dataset
-- 'LICENSE': license for the repository
+- `analysis.R`: R script used for data analysis
+- `R/`: directory containing additional code and functions used in analysis (i.e. sourced within `analysis.R` script)
+- `figs/`: figures produced by the R code using original IUCN (2017) dataset
+- `LICENSE`: license for the repository
 
 ## Citation
 
